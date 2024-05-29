@@ -15,7 +15,7 @@ Welcome to the repository of important LeetCode questions solved in Java! This r
 
 ### Two Sum
 - **Problem**: Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
-- **Solution**: [Two Sum Solution](./Array/TwoSum.java)
+- **Solution**: [Two Sum Solution](https://github.com/upendrasingh-63/LeetcodeQues/blob/main/Arrays/TwoSum.java)
 - **Approach**: Use nested loop and check whether the sum of ith and jth index element is equal to target, return index in array else return empty array.
 
 ### Other Array Problems
