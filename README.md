@@ -25,7 +25,7 @@ Welcome to the repository of important LeetCode questions solved in Java! This r
 
 ### Longest Substring Without Repeating Characters
 - **Problem**: Given a string, find the length of the longest substring without repeating characters.
-- **Solution**: [Longest Substring Without Repeating Characters](./String/LongestSubstringWithoutRepeatingCharacters.java)
+- **Solution**: [Longest Substring Without Repeating Characters](https://github.com/upendrasingh-63/LeetcodeQues/blob/main/String/LongestSubstringWithoutRepeatingCharacters.java)
 - **Approach**: Use a sliding window technique with a set to track characters.
 
 ### Other String Problems
